@@ -23,6 +23,7 @@ const seedDB = async () => {
         let randomIndex = Math.floor(Math.random() * 1000) + 5;
         randomIndex = randomIndex.toString()
         const camp = new Campground({
+            author: '6325d84e21428fcda6157237',
             location: `${cities[random1000].city}, ${cities[random1000].state}`,
             title: `${sample(descriptors)} ${sample(places)}`,
             image: 'https://picsum.photos/400/400?random=' + randomIndex,
