@@ -16,6 +16,14 @@ To create this project I used:
 - Bunch of different npm modules 
 - Session and cookies
 
+Things that you can do at this website:
+- Login 
+- Sign In (with Cookies, Session, Joi and Passport)
+- Add new "Campground" 
+- Leave a review (Star rating) 
+- Edit and Delete "Campground" 
+[This site also have a ton of security and Error handling stuff..]
+
 Final project is hosted on Heroku:
 https://young-reef-85636.herokuapp.com/
 
