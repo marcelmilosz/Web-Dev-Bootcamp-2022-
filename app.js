@@ -23,7 +23,7 @@ const reviewRoutes = require('./routes/reviews');
 const dbUrl = process.env.DB_URL || 'mongodb://localhost:27017/Yelp';
 const MongoStore = require('connect-mongo');
 
-mongoose.connect('mongodb://localhost:27017/Yelp', {
+mongoose.connect(dbUrl, {
     useNewUrlParser: true,
 });
 
