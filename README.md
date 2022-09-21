@@ -2,7 +2,7 @@
 
 This project is a finishing project of Udemy course that I took. 
 
-I took me about 2 months to finish (I've tried to spend about 2-3 hours every day [This course is 64 hours long]). 
+It took me about 2 months to finish (I've tried to spend about 2-3 hours every day [This course was 64 hours long]). 
 It was awesome and gave me some new and fresh knowledge to continue my web dev journey :) 
 
 
